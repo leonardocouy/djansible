@@ -1,0 +1,7 @@
+---
+
+git_repo: git@github.com:YOURUSER/YOURPROJECT.git
+ssh_github: yes
+is_private_repo: yes
+ssh_private_key: ~/.ssh/id_rsa
+compress_static_files: yes
